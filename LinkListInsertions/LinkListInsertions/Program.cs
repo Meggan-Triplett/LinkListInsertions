@@ -7,7 +7,8 @@ namespace LinkListInsertions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //solution to code challenge will go here
+
         }
     }
 }
